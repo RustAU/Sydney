@@ -2,6 +2,7 @@
 Rust Australia Sydney Meetup 
 
 This repository is simply a physical RSVP tracking
+
 [RustAU/Virtual](https://github.com/RustAU/Virtual) repository serves as virtual RSVP tracking and Call for Papers submissions
 
 The idea is to have hybrid meetup where we have virtual as well as physical RSVP when we secure venue
