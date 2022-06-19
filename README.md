@@ -22,11 +22,13 @@ Venue is TBD (Working on it) - Probably 50 people capacity
 
 Please flag your RSVP interest to attend in person by sending a PR into attendees/2022-Jul-19 in this repo
 
-Or alternatively send a PR to the Virtual repo attendees if you would like to join virtually instead
+Virtual form does not require RSVP
 
 ### Call for Papers
 
-Please submit Call for Papers proposals under Virtual in https://github.com/RustAU/Virtual/submissions/2022-Jul-19
+Please submit Call for Papers proposals under Virtual in:
+
+https://github.com/RustAU/Virtual/submissions/2022-Jul-19
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/jdfCdd2R
