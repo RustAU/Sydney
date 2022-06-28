@@ -10,7 +10,7 @@ This repository is simply a physical RSVP tracking
 
 The idea is to have hybrid meetup where we have virtual as well as physical RSVP when we secure venue
 
-Join us in [Discord](https://discord.gg/P358jCzb)
+Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups
 
@@ -31,5 +31,5 @@ Please submit Call for Papers proposals under Virtual in:
 https://github.com/RustAU/Virtual/submissions/2022-Jul-19
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
-[discord-url]: https://discord.gg/P358jCzb
+[discord-url]: https://discord.gg/pW35BNSBeV
 
