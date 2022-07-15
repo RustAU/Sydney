@@ -12,23 +12,11 @@ The idea is to have hybrid meetup where we have virtual as well as physical RSVP
 
 Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
-# Sydney Meetups
+# Sydney Meetups (Physical)
 
-## 2022 Jul 19 - 6PM AEST (GMT+10) - 8PM NZST - Venue TBD
-
-Inaugural Rust Australia Lightning Meetup
-
-Venue is TBD (Working on it) - Probably 50 people capacity
-
-Please flag your RSVP interest to attend in person by sending a PR into attendees/2022-Jul-19 in this repo
-
-Virtual form does not require RSVP
+First one is Virtual only. We are planning the first physical in Sydney on 14 Sep 2022
 
 ### Call for Papers
-
-Please submit Call for Papers proposals under Virtual in:
-
-https://github.com/RustAU/Virtual/submissions/2022-Jul-19
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
