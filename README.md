@@ -4,10 +4,6 @@
 
 Rust Australia Sydney Meetup 
 
-This repository is simply a physical RSVP tracking
-
-[RustAU/Virtual](https://github.com/RustAU/Virtual) repository serves as virtual RSVP tracking and Call for Papers submissions
-
 The idea is to have hybrid meetup where we have virtual as well as physical RSVP when we secure venue
 
 Join us in [Discord](https://discord.gg/pW35BNSBeV)
@@ -15,6 +11,8 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 # Sydney Meetups (Physical)
 
 First one is Virtual only. We are planning the first physical in Sydney on 14 Sep 2022
+
+19 July 2022 Sydney meetup URL: https://www.meetup.com/rust-sydney/events/287201398/
 
 ### Call for Papers
 
