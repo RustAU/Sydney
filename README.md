@@ -10,9 +10,16 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-First one is [Virtual](https://github.com/RustAU/Virtual) only. We are planning the first physical in Sydney on 14 Sep 2022
+## 2022 Sep 14 - 6PM AEST (GMT+10)
 
-19 July 2022 Sydney meetup URL: https://www.meetup.com/rust-sydney/events/287201398/
+This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
+Attenance is limited to 25 people, please sign up via the MeetUp group here: [LINK TO BE INSERT](LINK TO BE INSERT)
+
+## Speakers 
+
+|Handle|Topic|
+|---|---|
+| @tcharding | Exploring conditional compilation |
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
