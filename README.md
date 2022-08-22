@@ -20,6 +20,9 @@ Attenance is limited to 25 people, please sign up via the MeetUp group here: [LI
 |Handle|Topic|
 |---|---|
 | @tcharding | Exploring conditional compilation |
+| You? | Ping @wh33zle on the Discord |
+
+More speakers to be confirmed :)
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
