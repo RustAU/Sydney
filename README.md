@@ -2,9 +2,9 @@
 
 [![Discord chat][discord-badge]][discord-url]
 
-Rust Australia Sydney Meetup 
-
-The idea is to have hybrid meetup where we have virtual as well as physical RSVP when we secure venue
+Watch this space for any infos on physical meetups in Sydney.
+All meetups will be streamed and recorded.
+Slides will be in this repository.
 
 Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
