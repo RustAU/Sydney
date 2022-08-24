@@ -13,7 +13,7 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 ## 2022 Aug 31 - 6PM AEST - Social #pubcrawl
 
 This is a Social event, venue TBC
-Please signup at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
+Please RSVP at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
 
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
@@ -21,7 +21,7 @@ This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
 
 Attenance is limited to 30 people,
 
-Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/)
+Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/) at MeetUp
 
 ## Speakers 
 
