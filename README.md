@@ -18,8 +18,9 @@ Please RSVP at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
 This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
+Catering in the form of pizza and non-alcoholic drinks is provided.
 
-Attenance is limited to 30 people,
+Attenance is limited to 80 people.
 
 Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/) at MeetUp
 
