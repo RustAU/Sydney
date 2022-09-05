@@ -26,12 +26,15 @@ Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/) at Meet
 
 ## Speakers 
 
-|Handle|Topic|
-|---|---|
-| @tcharding | Exploring conditional compilation |
-| You? | Ping @wh33zle on the Discord |
+|Handle|Topic|Duration|
+|---|---|---|
+| @tcharding | Exploring conditional compilation | 10min |
+| @ChocMilkshake | TBA | 10min |
+| @justosophy | TBA | 5min |
+| @SchumannSprite | Programming the GPU with Rust | 10min |
+| @cironunes | Rust frontend with Yew | 10min |
 
-More speakers to be confirmed :)
+We will have Q/A of 5min after each talk and a break half-way through.
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
