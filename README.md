@@ -29,7 +29,7 @@ Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/) at Meet
 |Handle|Topic|Duration|
 |---|---|---|
 | @tcharding | Exploring conditional compilation | 10min |
-| @ChocMilkshake | TBA | 10min |
+| Trent (@ChocMilkshake) | Building your own serverless platform atop Deno core | 10min |
 | @justosophy | TBA | 5min |
 | @SchumannSprite | Programming the GPU with Rust | 10min |
 | @cironunes | Rust frontend with Yew | 10min |
