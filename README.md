@@ -10,11 +10,6 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2022 Aug 31 - 6PM AEST - Social #pubcrawl
-
-This is a Social event, venue TBC
-Please RSVP at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
-
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
 This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
@@ -39,3 +34,7 @@ We will have Q/A of 5min after each talk and a break half-way through.
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
 
+## 2022 Aug 31 - 6PM AEST - Social #pubcrawl
+
+This is a Social event, venue TBC
+Please RSVP at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
