@@ -2,7 +2,7 @@
 
 [![Discord chat][discord-badge]][discord-url]
 
-Watch this space for any infos on physical meetups in Sydney.
+Watch this space for information on physical meetups in Sydney.
 All meetups will be streamed and recorded.
 Slides will be in this repository.
 
@@ -18,11 +18,11 @@ Please RSVP at [Discord](https://discord.gg/pW35BNSBeV) #pubcrawl
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
 This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
-Catering in the form of pizza and non-alcoholic drinks is provided.
+Catering in the form of pizza and non-alcoholic drinks will be provided.
 
-Attenance is limited to 80 people.
+Attendance is limited to 80 people.
 
-Please [RSVP here](https://www.meetup.com/rust-sydney/events/287979855/) at MeetUp
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/287979855/)
 
 ## Speakers 
 
