@@ -21,7 +21,7 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/287979855/)
 
 ## Line-up
 
-|Handle|Topic|Duration|
+|Speaker|Topic|Duration|
 |---|---|---|
 | Tobin (@tcharding) | Exploring conditional compilation | 10min |
 | Justin (@justosophy) | Introduction to Bevy | 10min |
