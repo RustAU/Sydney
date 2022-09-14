@@ -26,7 +26,7 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/287979855/)
 | Tobin (@tcharding) | Exploring conditional compilation | 10min |
 | Justin (@justosophy) | Introduction to Bevy | 10min |
 | Ciro (@cironunes) | Rust frontend with Yew | 10min |
-| break | break | 15min |
+| break | break | 30min |
 | Trent (@ChocMilkshake) | Building your own serverless platform atop Deno core | 10min |
 | Cameron (@SchumannSprite) | Programming the GPU with Rust | 10min |
 
