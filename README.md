@@ -10,6 +10,18 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2022 Oct 10 - 6PM AEST - Meetup
+
+This meetup will be hosted at Harrison.AI in Sydney.
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
+
+### Line-up
+
+|Speaker|Topic|Duration|
+|---|---|---|
+| TBC | - | - |
+
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
 This meetup will be hosted at the Microsoft Reactor at Wynyard in Sydney.
@@ -19,7 +31,7 @@ Attendance is limited to 80 people.
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/287979855/)
 
-## Line-up
+### Line-up
 
 |Speaker|Topic|Duration|
 |---|---|---|
