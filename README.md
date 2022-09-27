@@ -20,7 +20,8 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
 
 |Speaker|Topic|Duration|
 |---|---|---|
-| TBC | - | - |
+| David (@davidlattimore) | Running Rust on an FPGA | 10min |
+| Lucas (@rukai) | Building a frame data website in Rust | 15min |
 
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
