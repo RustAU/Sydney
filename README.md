@@ -13,6 +13,9 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 ## 2022 Oct 10 - 6PM AEST - Meetup
 
 This meetup will be hosted at Harrison.AI in Sydney.
+There will be catering in the form of pizza and drinks.
+
+Attendance is limited to 80 people.
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
 
