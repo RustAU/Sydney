@@ -25,9 +25,9 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
 |---|---|---|
 | @davidlattimore | Running Rust on an FPGA | 10min |
 | @rukai | Building a frame data website in Rust | 15min |
-| @fridgeseal | A foray into thread-per-core programming in Rust | 10min |
-| @rfkelly | Indexing Petabytes of Data with Rust and AWS | 10min |
-| @gridbugs(he/him) | Escaping State-Machine Hell with a Pseudo-Synchronous DSL | 10min |
+| Tom (@fridgeseal) | A foray into thread-per-core programming in Rust | 10min |
+| Ryan (@rfkelly) | Indexing Petabytes of Data with Rust and AWS | 10min |
+| Steve (@gridbugs(he/him)) | Escaping State-Machine Hell with a Pseudo-Synchronous DSL | 10min |
 
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
