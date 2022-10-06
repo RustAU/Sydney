@@ -28,6 +28,7 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
 | Tom (@fridgeseal) | A foray into thread-per-core programming in Rust | 10min |
 | Ryan (@rfkelly) | Indexing Petabytes of Data with Rust and AWS | 10min |
 | Steve (@gridbugs(he/him)) | Escaping State-Machine Hell with a Pseudo-Synchronous DSL | 10min |
+| Thomas (@wh33zle) | Refactoring away locks in async code | 15min |
 
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
