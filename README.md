@@ -10,7 +10,7 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2022 Oct 10 - 6PM AEST - Meetup
+## 2022 Oct 10 - 5:30 PM to 8:30 PM AEST - Meetup
 
 This meetup will be hosted at Harrison.AI in Sydney.
 There will be catering in the form of pizza and drinks.
@@ -23,11 +23,11 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
 
 |Speaker|Topic|Duration|
 |---|---|---|
-| David (@davidlattimore) | Running Rust on an FPGA | 10min |
-| Lucas (@rukai) | Building a frame data website in Rust | 15min |
-| Tom (@fridgeseal) | A foray into thread-per-core programming in Rust | 10min |
-| Ryan (@rfkelly) | Indexing Petabytes of Data with Rust and AWS | 10min |
-| Steve (@stevebob) | - | 10min |
+| @davidlattimore | Running Rust on an FPGA | 10min |
+| @rukai | Building a frame data website in Rust | 15min |
+| @fridgeseal | A foray into thread-per-core programming in Rust | 10min |
+| @rfkelly | Indexing Petabytes of Data with Rust and AWS | 10min |
+| @gridbugs(he/him) | - | 10min |
 
 ## 2022 Sep 14 - 6PM AEST - Meetup
 
