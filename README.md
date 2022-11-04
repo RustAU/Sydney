@@ -10,14 +10,35 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2022 Oct 10 - 5:30 PM to 8:30 PM AEST - Meetup
+## 2022 Nov 09 - 5:30 PM to 8:00 PM AEST - MeetUp
 
 This meetup will be hosted at Harrison.AI in Sydney.
 There will be catering in the form of pizza and drinks.
 
 Attendance is limited to 80 people.
 
-Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/288746516)
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/289061840/)
+
+### Programme (Draft)
+
+5:30 pm - Doors open - Networking
+
+6:00 pm - Rust in Production - Panel discussion ~25 mins - Panelists TBC
+
+6:25 pm - Switch Panel Discussion (5 mins Mini-Break)
+
+6:30 pm - The Stigma of Unsafe - Panel discussion ~25 mins - Panelists TBC
+
+   -- 6:55 pm BREAK 15 mins - to approx 7:10 pm -
+
+7:10pm - @jsoverson - TBC - 10 min
+
+7:25 pm - @spadarian - Rust for (soil) geospatial applications - 10 min
+
+7:40 pm - @9names - TBC - 10 min
+
+
+## 2022 Oct 10 - 5:30 PM to 8:30 PM AEST - Meetup
 
 ### Line-up
 
