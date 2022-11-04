@@ -19,28 +19,26 @@ Attendance is limited to 80 people.
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/289061840/)
 
+This will be a hybrid event with participation both from Discord and physical in Sydney
+
 ### Programme (Draft)
 
-5:30 pm - Doors open - Networking
+All times are in AEST (Australian Eastern Standard Time)
 
-6:00 pm - Rust in Production - Panel discussion ~25 mins - Panelists TBC
-
-6:25 pm - Switch Panel Discussion (5 mins Mini-Break)
-
-6:30 pm - The Stigma of Unsafe - Panel discussion ~25 mins - Panelists TBC
-
-   -- 6:55 pm BREAK 15 mins - to approx 7:10 pm -
-
-7:10pm - @jsoverson - TBC - 10 min
-
-7:25 pm - @spadarian - Rust for (soil) geospatial applications - 10 min
-
-7:40 pm - @9names - TBC - 10 min
+|Time     | Item             | Description                                                   |
+|:---     | :---             | :---                                                          |
+| 5:30 pm | Doors Open       | Networking                                                    |
+| 6:00 pm | Panel Discussion | Rust in Production - ~25 mins - Panelists TBC                 |
+| 6:25 pm | Break            | Switch Panel ~5 mins Mini-Break                               |
+| 6:30 pm | Panel Discussion | The Stigma of Unsafe - ~25 mins - Panelists TBC               |
+| 6:55 pm | Break            | 20 mins - to approx 7:15 pm                                   |
+| 7:15pm  | Talk             | @jsoverson - TBC - 10 min                                     |
+| 7:30 pm | Talk             | @spadarian - Rust for (soil) geospatial applications - 10 min |
+| 7:45 pm | Talk             | @9names - TBC - 10 min                                        |
+| 8:00 pm | Doors Close      | Heading out to Pub's (approx)                                 |
 
 
 ## 2022 Oct 10 - 5:30 PM to 8:30 PM AEST - Meetup
-
-### Line-up
 
 |Speaker|Topic|Duration|
 |---|---|---|
