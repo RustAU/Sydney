@@ -29,12 +29,12 @@ All times are in AEST (Australian Eastern Standard Time)
 |:---     | :---             | :---                                                          |
 | 5:30 pm | Doors Open       | Networking                                                    |
 | 6:00 pm | Panel Discussion | Rust in Production - ~25 mins - Panelists TBC                 |
-| 6:25 pm | Break            | Switch Panel ~5 mins Mini-Break                               |
-| 6:30 pm | Panel Discussion | The Stigma of Unsafe - ~25 mins - Panelists TBC               |
-| 6:55 pm | Break            | 20 mins - to approx 7:15 pm                                   |
-| 7:15pm  | Talk             | @jsoverson - TBC - 10 min                                     |
+| 6:25 pm | Break            | Switch Panel ~10 mins Mini-Break                              |
+| 6:35 pm | Panel Discussion | The Stigma of Unsafe - ~25 mins - Panelists TBC               |
+| 7:00 pm | Break            | 15 mins - to approx 7:15 pm                                   |
+| 7:15pm  | Talk             | @jsoverson - Fully async, reactive streams in WebAssembly with wasmRS (but not *that* wasmrs) - 10 min |
 | 7:30 pm | Talk             | @spadarian - Rust for (soil) geospatial applications - 10 min |
-| 7:45 pm | Talk             | @9names - TBC - 10 min                                        |
+| 7:45 pm | Talk             | @9names - Rust in Raspberry pi rp2040 microcontroller - 10 min |
 | 8:00 pm | Doors Close      | Heading out to Pub's (approx)                                 |
 
 
