@@ -10,6 +10,19 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2023 Mar 01 - 5:30 PM to 8:00 PM AEDT - MeetU[
+
+This meetup will be hosted at Atlassian in Sydney
+341 George St, Lvl 6, RSVP Essential - Spaces limited!
+
+There will be catering in the form of pizza and drinks.
+
+Attendance is limited to 50 people.
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/291265163/)
+
+Full agenda will be here and in [RustAU Discord](https://discord.gg/pW35BNSBeV)
+
 ## 2022 Nov 09 - 5:30 PM to 8:00 PM AEST - MeetUp
 
 This meetup will be hosted at Harrison.AI in Sydney.
