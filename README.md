@@ -26,7 +26,7 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/291265163/)
 | 5:30 pm | Doors Open       | Networking                                                    |
 | 6:00 pm | Talks start      | @jt - nushell - 10 mins                                       |
 | 6:15 pm | Talk             | @Christopher Hunt A quick tour on the anatomy of an EV charging system written entirely in Rust. - 10 mins |
-| 6:30 pm | Talk             | Writing NES assembly programs in a Rust DSL | @gridbugs (he/him) - 10 mins |
+| 6:30 pm | Talk             | Writing NES assembly programs in a Rust DSL @gridbugs (he/him) - 10 mins |
 | 6:45 pm | Break            | BREAK 20-30 mins - to approx 7:15 pm |
 | 7:15 pm | Talk             | Rust Kata: Ideas for Improving Rust Teaching Tools - @tfpk - 10 mins |
 | 7:30 pm | Talk             | Fun with Fuzzing - @AgeManning - 10 mins |
