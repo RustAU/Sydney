@@ -10,7 +10,7 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2023 Mar 01 - 5:30 PM to 8:00 PM AEDT - MeetU[
+## 2023 Mar 01 - 5:30 PM to 8:00 PM AEDT - MeetUp
 
 This meetup will be hosted at Atlassian in Sydney
 341 George St, Lvl 6, RSVP Essential - Spaces limited!
