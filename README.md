@@ -10,6 +10,30 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2023 Apr 13 - 5:30 PM to 8:00 PM AEDT - MeetUp
+
+This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
+
+<!-- There will be catering in the form of pizza and drinks. -->
+
+Attendance is limited to 50 people.
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/292163549/) if you come in person!
+No RSVP required if you attend online.
+
+| Time    | Speaker                | Description                                          |
+|:--------|:-----------------------|:-----------------------------------------------------|
+| 5:30 pm |                        | Doors open for networking                            |
+| 6:00 pm | @wh33zle#5596 (remote) | Scaling library workspaces                           | 
+| 6:15 pm | @seddonm1#5980         | QuickJS WASM plugin                                  | 
+| 6:30 pm | @insou#6991            | Writing a Rust program without a single line of code | 
+| 6:45 pm |                        | BREAK                                                |
+| 7:15 pm | @gridbugs#9049         | Making a Roguelike in 7 Days with Rust               |
+| 7:30 pm | @Christopher Hunt#2382 | Refuge in the Embassy                                |
+| 8:00 pm |                        | Heading out to Pub's (approx)                        |
+
+Virtual Q&A Will be in [RustAU Discord](https://discord.gg/pW35BNSBeV)
+
 ## 2023 Mar 01 - 5:30 PM to 8:00 PM AEDT - MeetUp
 
 This meetup will be hosted at Atlassian in Sydney
