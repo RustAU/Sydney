@@ -15,7 +15,7 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
 
 There will be catering in the form of pizza and drinks.
-Thank you to @sigp for sponsoring!
+Thank you to [@sigp](https://github.com/sigp) for sponsoring!
 
 Attendance is limited to XX people.
 
