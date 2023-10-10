@@ -10,6 +10,29 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2023 Oct 19 - 5:30 PM to 8:00 PM AEDT
+
+This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
+
+There will be catering in the form of pizza and drinks.
+Thank you to @sigp for sponsoring!
+
+Attendance is limited to XX people.
+
+Please [RSVP on MeetUp](XX) if you come in person!
+No RSVP required if you attend online.
+
+| Time    | Item                   | Description                                          |
+|:--------|:-----------------------|:-----------------------------------------------------|
+| 5:30 pm |                        | Doors open for networking                            |
+| 6:00 pm | Panel discussion       | Proc macros: The good, the bad and the ugly          | 
+| 6:45 pm |                        | BREAK                                                | 
+| 7:00 pm | @voltrevo              | Demo: Valuescript                                    | 
+| 7:30 pm | @christopherhunt       | Demo: Streambed                                      | 
+| 8:00 pm |                        | Heading out to Pub's (approx)                        |
+
+Virtual Q&A Will be in [RustAU Discord](https://discord.gg/pW35BNSBeV)
+
 ## 2023 Apr 13 - 5:30 PM to 8:00 PM AEDT - MeetUp
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
