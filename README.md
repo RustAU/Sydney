@@ -17,7 +17,7 @@ This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential
 There will be catering in the form of pizza and drinks.
 Thank you to [@sigp](https://github.com/sigp) for sponsoring!
 
-Attendance is limited to XX people.
+Attendance is limited to 80 people.
 
 Please [RSVP on MeetUp](XX) if you come in person!
 No RSVP required if you attend online.
