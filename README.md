@@ -19,7 +19,7 @@ Thank you to [@sigp](https://github.com/sigp) for sponsoring!
 
 Attendance is limited to 80 people.
 
-Please [RSVP on MeetUp](XX) if you come in person!
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/296672158/) if you come in person!
 No RSVP required if you attend online.
 
 | Time    | Item                   | Description                                          |
