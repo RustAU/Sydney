@@ -10,6 +10,31 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2023 Dec 05 - 5:30 PM to 8:00 PM AEDT
+
+This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
+
+There will be catering in the form of pizza and drinks.
+Thank you to [@sigp](https://github.com/sigp) for sponsoring!
+
+Attendance is limited to 80 people.
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/297592287/) if you come in person!
+No RSVP required if you attend online.
+
+| Time    | Item                   | Description                                          |
+|:--------|:-----------------------|:-----------------------------------------------------|
+| 5:30 pm |                        | Doors open for networking                            |
+| 6:00 pm | @Pete                  | Composable messaging with Selium                     | 
+| 6:15 pm | @yamadapc              | Rust Audio                                           | 
+| 6:35 pm | @seddonm1              | Rust GPU compute                                     | 
+| 6:50 pm |                        | BREAK                                                | 
+| 7:10 pm | @LLFourn               | flutter_rust_bridge                                  | 
+| 7:25 pm | @Arduano               | JIT your Rust                                        | 
+| 8:00 pm |                        | Heading out to Pub's (approx)                        |
+
+Virtual Q&A Will be in [RustAU Discord](https://discord.gg/pW35BNSBeV)
+
 ## 2023 Oct 19 - 5:30 PM to 8:00 PM AEDT
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
