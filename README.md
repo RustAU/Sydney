@@ -10,7 +10,7 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2024 Feb 27 - 6:30 PM to 8:00 PM AEDT
+## 2024 Feb 27 - 5:30 PM to 8:00 PM AEDT
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
 
