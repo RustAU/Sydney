@@ -10,9 +10,31 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
-## 2023 Dec 05 - 5:30 PM to 8:00 PM AEDT
+## 2024 Feb 27 - 5:30 PM to 8:00 PM AEDT
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
+
+There will be catering in the form of pizza and drinks.
+Thank you to TBD for sponsoring!
+
+Attendance is limited to 80 people.
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/298892952/) if you come in person!
+No RSVP required if you attend online.
+
+| Time    | Description                                          |
+|:--------|:-----------------------------------------------------|
+| 5:30 pm | Doors open for networking                            |
+| 6:00 pm | Bevy.. something 😄 @Trent - 10 mins                 |
+| 6:15 pm | Nushift intro @Dave - 10 mins                        |
+| 6:30 pm | TBD - @fruitflyfree - 5-10 mins TBC                  |
+| 6:45 pm | Break (mayube) - 15 mins(ish)                        |
+| 7:00 pm | ?TBD! - @alessandrod - 5-10 mins TBC                 |
+| 7:15 pm | ?TBD! - @Arduano - 5-10 mins TBC                     |
+| 7:30 pm | ?TBD! - @Tom K - 10 mins                             |
+| 7:45 pm | ML model serving - @0xbadc0ffee - 10 mins            |
+
+## 2023 Dec 05 - 5:30 PM to 8:00 PM AEDT
 
 There will be catering in the form of pizza and drinks.
 Thank you to [@sigp](https://github.com/sigp) for sponsoring!
