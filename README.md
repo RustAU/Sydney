@@ -14,25 +14,25 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
 
-There will be catering in the form of pizza and drinks.
-Thank you to TBD for sponsoring!
+There will be pizza and drinks - thank you to @sigp !
 
 Attendance is limited to 80 people.
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/298892952/) if you come in person!
 No RSVP required if you attend online.
 
-| Time    | Description                                          |
-|:--------|:-----------------------------------------------------|
-| 5:30 pm | Doors open for networking                            |
-| 6:00 pm | Bevy.. something 😄 @Trent - 10 mins                 |
-| 6:15 pm | Nushift intro @Dave - 10 mins                        |
-| 6:30 pm | TBD - @fruitflyfree - 5-10 mins TBC                  |
-| 6:45 pm | Break (mayube) - 15 mins(ish)                        |
-| 7:00 pm | ?TBD! - @alessandrod - 5-10 mins TBC                 |
-| 7:15 pm | ?TBD! - @Arduano - 5-10 mins TBC                     |
-| 7:30 pm | ?TBD! - @Tom K - 10 mins                             |
-| 7:45 pm | ML model serving - @0xbadc0ffee - 10 mins            |
+| Time    | Item    | Description                                         |
+|:--------|:---     | :---------------------------------------------------|
+| 5:30 pm |         | Doors open for networking                           |
+| 6:00 pm | @Trent  | Bevy.. something - 10 mins                          |
+| 6:15 pm | @Davepollack | Nushift intro - 10 mins                        |
+| 7:30 pm | @tpfk   | playing with proc macro magic - 10 mins             |
+| 6:45 pm | BREAK   | 20 mins Break                                       |
+| 7:05 pm | @alessandrod | Performance profiling with eBPF - 10 mins      |
+| 7:20 pm | @Arduano | Trust the Compiler - 5 mins                        |
+| 7:30 pm | @fruitflyfree | Rust-ifying legacy C++ projects - 10 mins     |
+| 7:45 pm | @0xbadc0ffee | ML model serving - @0xbadc0ffee - 10 mins      |
+| 8:00 pm |          | We head to pub's                                   |
 
 ## 2023 Dec 05 - 5:30 PM to 8:00 PM AEDT
 
