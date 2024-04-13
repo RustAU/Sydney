@@ -10,6 +10,26 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2024 Apr 17 - 5:30 PM to 8:00 PM AEDT
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/299882966/) if you come in person!
+
+No RSVP required if you attend online.
+
+| Time    | Item            | Description                                 |
+|:--------|:---             | :-------------------------------------------|
+| 5:30 pm |                 | Doors open for networking                   |
+| 6:00 pm | @DavidLattimore | Writing a Rust linker - 15 mins             |
+| 6:20 pm | @areweat        | Your e-mail is now your database? - 10 mins |
+| 6:35 pm | @Arduano        | Rust your own V8 - 10 mins                  |
+| 6:50 pm | BREAK           | 20 mins Break                               |
+| 7:10 pm | @Rafferty97     | Dynamic schemas with serde - 10 mins        |
+| 7:30 pm | @conradludgate  | A tour of an INSERT - 10 mins               |
+| 7:45 pm | @xobs           | Xous - 10 mins                              |
+| 8:00 pm |                 | We head to pub's                            |
+
+All times are approximates and subject to change.
+
 ## 2024 Feb 27 - 5:30 PM to 8:00 PM AEDT
 
 This meetup will be hosted at MS Reactor, 11 York Street, Lvl 10, RSVP Essential - Spaces limited!
