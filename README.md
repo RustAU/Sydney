@@ -16,16 +16,16 @@ Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/299882966/) if
 
 No RSVP required if you attend online.
 
-| Time    | Item            | Description                                 | Recording |
-|:--------|:---             | :-------------------------------------------| :-------------------------------------------|
-| 5:30 pm |                 | Doors open for networking                   | - |
-| 6:00 pm | @DavidLattimore | Writing a Rust linker - 15 mins             | [David Lattimore - A Linker in the Wild](https://youtu.be/WSHt3-gwVxc?si=F5cKn8UHmItc6gN6&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
-| 6:20 pm | @areweat        | Your e-mail is now your database? - 10 mins | [pinkforest - Your e-mail is now your database?](https://youtu.be/rDl6JzeaZXQ?si=TmnIK-EDHpjGvrfm&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
-| 6:35 pm | @Arduano        | Rust your own V8 - 10 mins                  | [Leo - Rust your V8](https://youtu.be/gTcA0-sd4a0?si=hiZNFBOtvEhDWpL6&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
-| 6:50 pm | BREAK           | 20 mins Break                               | - |
-| 7:10 pm | @Rafferty97     | Dynamic schemas with serde - 10 mins        | [Alexander Rafferty - Dynamic schemas with serde](https://youtu.be/BbWRuEVUvls?si=-p4VHtIBqKffuVWB&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
-| 7:30 pm | @conradludgate  | A tour of an INSERT - 10 mins               | [Conrad Ludgate - A tour of an INSERT](https://youtu.be/adh42KssYkA?si=-fVQVxFrSMEq6bu7&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
-| 7:45 pm | @xobs           | Xous - 10 mins                              | [Sean Cross - A Tour of Xous](https://youtu.be/x1BrJ24JmeA?si=_tvkwo_-CTGzMim5&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w) |
+| Time    | Item            | Description                                 |
+|:--------|:---             | :-------------------------------------------|
+| 5:30 pm |                 | Doors open for networking                   |
+| 6:00 pm | @DavidLattimore | [Writing a Rust linker](https://youtu.be/WSHt3-gwVxc?list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)                         |
+| 6:20 pm | @areweat        | [Your e-mail is now your database?](https://youtu.be/rDl6JzeaZXQ?list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)             |
+| 6:35 pm | @Arduano        | [Rust your own V8](https://youtu.be/gTcA0-sd4a0?list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)                              |
+| 6:50 pm | BREAK           | 20 mins Break                               |
+| 7:10 pm | @Rafferty97     | [Dynamic schemas with serde](https://youtu.be/BbWRuEVUvls?si=-p4VHtIBqKffuVWB&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)|
+| 7:30 pm | @conradludgate  | [A tour of an INSERT](https://youtu.be/adh42KssYkA?si=-fVQVxFrSMEq6bu7&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)       |
+| 7:45 pm | @xobs           | [A tour of Xous](https://youtu.be/x1BrJ24JmeA?si=_tvkwo_-CTGzMim5&list=PLjdAa4KddFvXtyasP2EBmVJtwPLeJL64w)            |
 | 8:00 pm |                 | We head to pub's                            | - |
 
 All times are approximates and subject to change.
