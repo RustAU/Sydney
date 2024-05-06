@@ -10,6 +10,28 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2024 May 28 - 5:00 PM to 7:30 PM AEDT
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/300854266/) if you come in person!
+
+No RSVP required if you attend online.
+
+| Time    | Item            | Description                                 |
+|:--------|:---             | :-------------------------------------------|
+| 5:00 pm |                 | Doors open for networking                   |
+| 5:30 pm | @thomaseizinger | Make testing magical again - 10 mins        |
+| 5:45 pm | @Rukai          | Windsock: database/service benchmarking - 10 mins |
+| 6:00 pm | @Spantle        | NitrousDS - the journey  - 10 mins          |
+| 6:15 pm | BREAK           | -----------------------                     |
+| 6:35 pm | @gridbugs       | a software-defined modular synthesizer - 20 mins |
+| 7:00 pm | @rbuckland      | madato - 🐍 markdown 🦀 - 10 mins           |
+| 7:15 pm | @orhun          | Cooking up RataTUIs - 10 mins               |
+| 7:30 pm |                 | We head to the pub's                        |
+
+All times are approximates and subject to change.
+
+Please note we are startng 30 mins earlier than usual.
+
 ## 2024 Apr 17 - 5:30 PM to 8:00 PM AEDT
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/299882966/) if you come in person!
