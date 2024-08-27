@@ -10,6 +10,25 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2024 Aug 28 - 5:30 PM to 7:40 PM Sydney
+
+RSVP (In-Person only): E-mail to **rust-sydney-2024-08-28@arewe.at** with subject: **rsvp yes**
+
+| Time    | Item                     | Who / How much                 |
+|:--------|:---                      | :------------------------------|
+| 5:30 pm | Doors open               | Networking                     |
+| 5:45 pm | **Games Glam Math**      | @bitshifternz   - 20 mins      |
+| 6:10 pm | **What is no_std**       | @9names   - 10 mins            |
+| 6:25 pm | **Logic if you dare**    | @sleepytea - 10 mins           |
+| 6:40 pm | BREAK                    | 20 mins                        |
+| 7:00 pm | **Linking sheanangians** | @davidlattimore - 10 mins      |
+| 7:15 pm | **Awesome Rust GUIs**    | @wh33zle - 10 mins             |
+| 7:30 pm | We head to the pub's     |                                |
+
+Agenda is subject to change - as always :woman_shrugging:
+
+Sign up to speak at next event at our [Discord] Talent channel.
+
 ## 2024 May 28 - 5:00 PM to 7:30 PM AEDT
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/300854266/) if you come in person!
