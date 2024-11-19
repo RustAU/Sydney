@@ -10,6 +10,23 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2024 Dec 4 - 5:00 PM to 7:30 PM Sydney
+
+Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/304625921/) if you come in person!
+
+No RSVP required if you attend online.
+
+| Time    | Item                     | Who / How much                 |
+|:--------|:---                      | :------------------------------|
+| 5:00 pm | Doors open               | Networking                     |
+| 5:20 pm | **sel4**                 | Gernot Heiser - 40 mins        |
+| 6:00 pm | BREAK                    | 20 mins                        |
+| 6:20 pm | **sel4 Rust**            | Alwin Joshy - 20 mins          |
+| 6:45 pm | **Terry in Rust**        | Geoff Langdale - 30 mins       |
+| 7:30 pm | We head to the pub's     |                                |
+
+Sign up to speak at next event at our [Discord] Talent channel.
+
 ## 2024 Aug 28 - 5:30 PM to 7:40 PM Sydney
 
 RSVP (In-Person only): E-mail to **rust-sydney-2024-08-28@arewe.at** with subject: **rsvp yes**
@@ -24,10 +41,6 @@ RSVP (In-Person only): E-mail to **rust-sydney-2024-08-28@arewe.at** with subjec
 | 7:00 pm | **Linking sheanangians** | @davidlattimore - 10 mins      |
 | 7:15 pm | **Awesome Rust GUIs**    | @wh33zle - 10 mins             |
 | 7:30 pm | We head to the pub's     |                                |
-
-Agenda is subject to change - as always :woman_shrugging:
-
-Sign up to speak at next event at our [Discord] Talent channel.
 
 ## 2024 May 28 - 5:00 PM to 7:30 PM AEDT
 
