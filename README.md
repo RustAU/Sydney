@@ -10,6 +10,20 @@ Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Sydney Meetups (Physical)
 
+## 2026 Feb 11 - 5:00 PM to 7:30 PM AEST
+
+RSVP (In-Person only): [MeetUp](https://www.meetup.com/rust-sydney/events/313074935/)
+
+| Time    | Item                     | Who / How much                 |
+|:--------|:---                      | :------------------------------|
+| 5:00 pm | Doors open               | Networking                     |
+| 5:30 pm | **Foot Firmware**        | @Rukai - 15 mins               |
+| 5:50 pm | **Brute force RIIR**     | @seddonm1 - 15 mins            |
+| 6:10 pm | BREAK                    | 20 mins                        |
+| 6:30 pm | **fused kernels**        | @Alex - 15 mins                |
+| 6:50 pm | **copper-rs**            | @gbin - 15 mins                |
+| 7:30 pm | We head to the pub's     |                                |
+
 ## 2024 Dec 4 - 5:00 PM to 7:30 PM Sydney
 
 Please [RSVP on MeetUp](https://www.meetup.com/rust-sydney/events/304625921/) if you come in person!
